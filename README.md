@@ -3,7 +3,7 @@
 ## 👤 Student Information
 - **Name:** Shaik Rezwan Ahmmed Rafi
 - **Student ID:** 252-35-245
-- **Section:** 45-D
+- **Section:** 45-H2
 - **Department:** Department of Software Engineering
 - **Institution:** Daffodil International University (DIU)
 
